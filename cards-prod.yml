@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Hey, welcome to banking cards related prod APIs"
+  contactDetails:
+    name: "Pramod P - Product Owner"
+    email: "pramodp@banking.com"
+  onCallSupport:
+    - (617) 432-2356
+    - (936) 564-8721

@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to banking accounts related QA APIs "
+  contactDetails:
+    name: "Sanjay Ray - QA Lead"
+    email: "Sanjayr@banking.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371
