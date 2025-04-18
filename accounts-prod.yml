@@ -5,7 +5,7 @@ accounts:
   message: "Hey, welcome to Banking accounts related webhook APIs"
   contactDetails:
     name: "Pramod Pradhan - Product Owner"
-    email: "pramod@pramod.com"
+    email: "pramod@banking.com"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
